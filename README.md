@@ -3,7 +3,7 @@
 
 MITRE ATT&CK Offense & Defense & GRC.
 
-https://github.com/HadessCS/attack-navigator.git
+https://attacknav.hadess.io
 
 Brought to you by:
 
